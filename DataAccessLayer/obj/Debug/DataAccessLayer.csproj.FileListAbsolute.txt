@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\MyShop (5)\MyShop\MyShop\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\MyShop (5)\MyShop\MyShop\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\MyShop (5)\MyShop\MyShop\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyShop (5)\MyShop\MyShop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyShop (5)\MyShop\MyShop\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\MyShop (5)\MyShop\MyShop\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
